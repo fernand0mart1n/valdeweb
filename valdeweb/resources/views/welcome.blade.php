@@ -9,22 +9,22 @@
 <title>Flato - Responsive Resume, Personal Portfolio Template</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--main style-->
-<link rel="stylesheet" type="text/css" media="screen" href="../public_html/assets/css/bootstrap.css">
-<link rel="stylesheet" type="text/css" media="screen" href="../public_html/assets/css/style.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../assets/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../assets/css/style.css">
 <!--background slider style-->
-<link rel="stylesheet" type="text/css" href="../public_html/assets/css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="../assets/css/slideshow.css" />
 <!--google font style-->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300' rel='stylesheet' type='text/css'>
 <!--font-family: 'Open Sans', sans-serif;-->
 <!-- font css style-->
-<link rel="stylesheet" href="../public_html/assets/css/font-awesome.css">
+<link rel="stylesheet" href="../assets/css/font-awesome.css">
 <!--for slider style-->
 
 <noscript>
-<link rel="stylesheet" type="text/css" href="../public_html/assets/css/fallback.css" />
+<link rel="stylesheet" type="text/css" href="../assets/css/fallback.css" />
 </noscript>
 <!--[if lt IE 9]>
-            <link rel="stylesheet" type="text/css" href="../public_html/assets/css/fallback.css" />
+            <link rel="stylesheet" type="text/css" href="../assets/css/fallback.css" />
         <![endif]-->
 </head><body>
 <!--wrapper start-->
@@ -92,7 +92,7 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.  cillum dolore eu fugiat nulla pariatur. olore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
           <p>nulla pariatur.uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. olore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
           <a href="#" class="bntDownload">Download Printable Resume</a> </div>
-        <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic"> <img src="../public_html/assets/http://placehold.it/295x295&text=image1" alt="" class="img-circle topmar"> </div>
+        <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic"> <img src="../assets/http://placehold.it/295x295&text=image1" alt="" class="img-circle topmar"> </div>
       </div>
     </div>
   </section>
@@ -263,28 +263,28 @@
       </div>
       <ul class="portfolioContainer row">
         <li class="photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image1" alt=""  > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image1" alt=""  > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image2" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image2" alt="" > </div>
         </li>
         <li class="illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image3" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image3" alt="" > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image4" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image4" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image5" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image5" alt="" > </div>
         </li>
         <li class="branding photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image6" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image6" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image7" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image7" alt="" > </div>
         </li>
         <li class="branding col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../public_html/assets/http://placehold.it/450x450&text=image8" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image8" alt="" > </div>
         </li>
       </ul>
     </div>
@@ -346,17 +346,17 @@
 </div>
 <!--wrapper end-->
 <!--modernizr js-->
-<script type="text/javascript" src="../public_html/assets/js/modernizr.custom.26633.js"></script>
+<script type="text/javascript" src="../assets/js/modernizr.custom.26633.js"></script>
 <!--jquary min js-->
-<script type="text/javascript" src="../public_html/assets/js/jquery.min.js"></script>
-<script src="../public_html/assets/js/bootstrap.js"></script>
-<script type="text/javascript" src="../public_html/assets/js/jquery.gridrotator.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/bootstrap.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.gridrotator.js"></script>
 <!--for custom jquary-->
-<script src="../public_html/assets/js/custom.js"></script>
+<script src="../assets/js/custom.js"></script>
 <!--for placeholder jquary-->
-<script type="text/javascript" src="../public_html/assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.placeholder.js"></script>
 <!--for menu jquary-->
-<script type="text/javascript" src="../public_html/assets/js/stickUp.js"></script>
+<script type="text/javascript" src="../assets/js/stickUp.js"></script>
 <script type="text/javascript">
 jQuery(function($) {
 $(document).ready( function() {
@@ -399,16 +399,16 @@ $( ".navbar-toggle" ).click(function() {
 });
 </script>
 <!--for portfoli filter jquary-->
-<script src="../public_html/assets/js/jquery.isotope.js" type="text/javascript"></script>
+<script src="../assets/js/jquery.isotope.js" type="text/javascript"></script>
 <!--for portfoli lightbox -->
-<link type="text/css" rel="stylesheet" id="theme" href="../public_html/assets/css/jquery-ui-1.8.16.custom.css">
-<link type="text/css" rel="stylesheet" href="../public_html/assets/css/lightbox.min.css">
-<script type="text/javascript" src="../public_html/assets/js/jquery.ui.widget.min.js"></script>
-<script type="text/javascript" src="../public_html/assets/js/jquery.ui.rlightbox.js"></script>
+<link type="text/css" rel="stylesheet" id="theme" href="../assets/css/jquery-ui-1.8.16.custom.css">
+<link type="text/css" rel="stylesheet" href="../assets/css/lightbox.min.css">
+<script type="text/javascript" src="../assets/js/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.ui.rlightbox.js"></script>
 <!--for skill chat jquary-->
-<script src="../public_html/assets/js/jquery.easing.min.js"></script>
-<script src="../public_html/assets/js/jquery.easypiechart.js"></script>
+<script src="../assets/js/jquery.easing.min.js"></script>
+<script src="../assets/js/jquery.easypiechart.js"></script>
 <!--contact form js-->
-<script type="text/javascript" src="../public_html/assets/js/jquery.contact.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.contact.js"></script>
 </body>
 </html>
