@@ -6,7 +6,7 @@
 <!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Valdeweb</title>
+<title>Flato - Responsive Resume, Personal Portfolio Template</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--main style-->
 <link rel="stylesheet" type="text/css" media="screen" href="../assets/css/bootstrap.css">
@@ -68,8 +68,8 @@
     </div>
     <!--banner end-->
     <div class="bannerText container">
-      <h1>We are Valdeweb</h1>
-      <h2>Design & Build Beautiful Crafted Web Experiences</h2>
+      <h1>Somos Valdeweb</h1>
+      <h2>Diseño y creación de experiencias web completas</h2>
     </div>
     <!--menu start-->
     <div class="menu">
@@ -84,12 +84,12 @@
                 <div class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
                     <li class="menuItem active"><a href="#wrapper">Home</a></li>
-                    <li class="menuItem"><a href="#aboutme">About</a></li>
+                    <li class="menuItem"><a href="#aboutme">Sobre nosotros</a></li>
                     <li class="menuItem"><a href="#technical">Skills</a></li>
-                    <li class="menuItem"><a href="#exprience">Experience</a></li>
-                    <li class="menuItem"><a href="#education">Education</a></li>
-                    <li class="menuItem"><a href="#protfolio">Portfolio</a></li>
-                    <li class="menuItem"><a href="#contact">Contact</a></li>
+                    <li class="menuItem"><a href="#exprience">Experiencia</a></li>
+                    <li class="menuItem"><a href="#education">Educación</a></li>
+                    <li class="menuItem"><a href="#protfolio">Portafolio</a></li>
+                    <li class="menuItem"><a href="#contact">Contacto</a></li>
                   </ul>
                 </div>
               </div>
@@ -105,16 +105,16 @@
   <section class="aboutme" id="aboutme">
     <div class="container">
       <div class="heading">
-        <h2>About us</h2>
-        <p>A small introduction about us</p>
+        <h2>Sobre nosotros</h2>
+        <p>Una pequeña introducción en nuestro mundo</p>
       </div>
       <div class="row">
         <div class=" col-xs-12 col-sm-12 col-md-7 col-lg-7">
-          <h3>Valdeweb</h3>
-          <h4 class="subHeading">Webdesign & Web Develope from Rawson</h4>
+          <h3>Jonathan Doe</h3>
+          <h4 class="subHeading">Diseño web y Web Developer de Rawson</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.  cillum dolore eu fugiat nulla pariatur. olore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
           <p>nulla pariatur.uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. olore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-          <a href="#" class="bntDownload">Download Printable Resume</a> </div>
+          <a href="#" class="bntDownload">Descargar resumen</a> </div>
         <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic"> <img src="../assets/images/profile.jpg" alt="" class="img-circle topmar"> </div>
       </div>
     </div>
@@ -130,7 +130,7 @@
       <div class="row">
         <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
           <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="72"> <span class="percent"></span> </span>
-            <h4>ANSI C</h4>
+            <h4>C</h4>
             <p>Donec accumsan ligula vitae mag na curabitur id</p>
           </div>
         </div>
@@ -286,28 +286,28 @@
       </div>
       <ul class="portfolioContainer row">
         <li class="photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image1" alt=""  > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image1" alt=""  > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image2" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image2" alt="" > </div>
         </li>
         <li class="illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image3" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image3" alt="" > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image4" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image4" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image5" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image5" alt="" > </div>
         </li>
         <li class="branding photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image6" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image6" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image7" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image7" alt="" > </div>
         </li>
         <li class="branding col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="http://placehold.it/450x450&text=image8" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/http://placehold.it/450x450&text=image8" alt="" > </div>
         </li>
       </ul>
     </div>
