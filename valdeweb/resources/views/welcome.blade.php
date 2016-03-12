@@ -58,6 +58,7 @@
           <li><span>Image 01</span></li>
           <li><span>Image 02</span></li>
           <li><span>Image 03</span></li>
+          
         </ul>
         <!--background slide show end-->
       </div>
@@ -282,28 +283,28 @@
       </div>
       <ul class="portfolioContainer row">
         <li class="photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/1.jpg" alt=""  > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/1.jpg" title="Project Title1" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/1.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/1.jpg" alt=""  > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/2.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/2.jpg" title="Project Title2" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/2.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/2.jpg" alt="" > </div>
         </li>
         <li class="illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/3.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/3.jpg" title="Project Title3" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/3.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/3.jpg" alt="" > </div>
         </li>
         <li class="branding illustration col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/4.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/4.jpg" title="Project Title4" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/4.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/4.jpg" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/5.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/5.jpg" title="Project Title5" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/5.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/5.jpg" alt="" > </div>
         </li>
         <li class="branding photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/6.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/6.jpg" title="Project Title6" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/6.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/6.jpg" alt="" > </div>
         </li>
         <li class="illustration photos col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/7.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/7.jpg" title="Project Title7" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/7.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/7.jpg" alt="" > </div>
         </li>
         <li class="branding col-xs-6 col-sm-4 col-md-3 col-lg-3">
-          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="#" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/8.jpg" alt="" > </div>
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="../assets/images/portfolio/big/8.jpg" title="Project Title8" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a> <a href="../assets/images/portfolio/big/8.jpg" title="Project Link" target="_blank" class="linKed"><i class="fa fa-link fa-2x"></i></i></a> </span> </span> <img src="../assets/images/portfolio/big/8.jpg" alt="" > </div>
         </li>
       </ul>
     </div>
@@ -317,9 +318,8 @@
         <p>Please feel free if you would like to have a chat.</p>
       </div>
     </div>
-    <div class="col-md-offset-1 col-md-10 row mapArea">
-      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=-37.817682,144.957595&amp;spn=0.01134,0.026157&amp;t=m&amp;z=16&amp;output=embed"></iframe>
-    </div>
+    <div class="mapArea">
+      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=-43.3002634,-65.1049068&amp;spn=0.01134,0.026157&amp;t=m&amp;z=16&amp;output=embed"></iframe>
   </section>
   <section class="contactDetails">
     <div class="container">
