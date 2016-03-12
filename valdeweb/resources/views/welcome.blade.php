@@ -58,10 +58,6 @@
           <li><span>Image 01</span></li>
           <li><span>Image 02</span></li>
           <li><span>Image 03</span></li>
-          <li><span>Image 04</span></li>
-          <li><span>Image 05</span></li>
-          <li><span>Image 06</span></li>
-
         </ul>
         <!--background slide show end-->
       </div>
@@ -322,7 +318,7 @@
       </div>
     </div>
     <div class="row mapArea">
-      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=-37.817682,144.957595&amp;spn=0.01134,0.026157&amp;t=m&amp;z=16&amp;output=embed"></iframe>
+      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com.ar/maps/@-43.295254,-65.0810277,2405m/data=!3m1!1e3?hl=es-419"></iframe>
     </div>
   </section>
   <section class="contactDetails">
